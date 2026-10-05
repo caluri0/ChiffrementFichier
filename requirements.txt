@@ -1,0 +1,6 @@
+# Cryptography primitives (AES, RSA, PBKDF2, GCM)
+# https://cryptography.io/
+cryptography>=42.0.0,<44.0.0
+
+# Optional: generate docs/Guide_Apprentissage_Chiffrement_Fichiers.pdf
+fpdf2>=2.7.0,<3.0.0
